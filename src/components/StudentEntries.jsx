@@ -81,10 +81,10 @@ const StudentEntries = () => {
                   Date
                 </th>
                 <th scope="col" class="px-6 py-3">
-                  Time_IN
+                  Time_OUT
                 </th>
                 <th scope="col" class="px-6 py-3">
-                  Time_OUT
+                  Time_IN
                 </th>
               </tr>
             </thead>
